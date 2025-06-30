@@ -1,1 +1,17 @@
+This report provides a comprehensive view of patient statistics, department performance, and admission trends. 
 
+📌 Built With:
+1) Excel (Macro-Enabled Workbook)
+2) Power Query
+3) Pivot Tables & Slicers
+4) Visual Basic for Applications (VBA)
+
+✅ Key Insights:
+1) Peak Patient Flow in August 2023 (1,024 patients)
+2) Admission Status: 4,612 admitted vs. 4,604 not admitted
+3) Age Demographics: Highest concentration in the 41–60 age group
+4) General Medicine leads with 740 patients, followed by Orthopedics and Physiotherapy
+
+
+This dashboard was created to enhance healthcare decision-making by presenting data clearly and meaningfully.
+It not only tracks key metrics but also supports operational improvements and patient care strategies.
